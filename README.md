@@ -1,8 +1,4 @@
 <!-- Header -->
-<p align="center">
-  <img src="![Cute Puppies](https://images.unsplash.com/photo-1517423440428-a5a00ad493e8)
-" alt="header" />
-</p>
 
 <!-- Self Introduction -->
 <div align="center">
